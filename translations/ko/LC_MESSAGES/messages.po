@@ -20,9 +20,9 @@ msgstr ""
 
 #: srv.py:17
 msgid "Hello World!"
-msgstr "?? ?????!!"
+msgstr "세계 안녕하세요!"
 
 #: templates/hello.html:10
 msgid "Hello world!"
-msgstr "?? ?????!"
+msgstr "세계 안녕하세요!"
 
